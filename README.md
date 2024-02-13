@@ -2,6 +2,6 @@
 
 
 
-  💻 Projeto tela de login do site Netflix Brasil, desenvolvido com HTML e CSS.
+   Projeto tela de login do site Netflix Brasil, desenvolvido com HTML e CSS.
 
 
